@@ -1,5 +1,5 @@
-- 👋 Hi, I’m muhammad machhaliya
-- 👀 I’m interested in Full stack web devlopment and Open Source Contribution.
+- 👋 Hi, I’m mohammad machhaliya
+- 👀 I’m interested in Backend devlopment and Open Source Contribution.
 - 🌱 I’m currently learning some more deeper consepts of  Backend web Devlopment.
 - 💞️ I’m looking to collaborate with peoples of Open Source Communities.
 - 📫 reach to me by email:mohammadmachaliya7@gmail.com
